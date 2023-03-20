@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="test.css" />
+    <section class="mysection">
+      <div class="mydiv">
+        <form class="myform">
+
+          <h1 class="myh1">Login</h1>
+
+          <span class="mainspan">
+            <span></span>
+            <input class="innerspan inpbox" placeholder="Username" type="text"
+          /></span>
+
+
+   <span class="mainspan"> 
+    <span></span>            <input class="innerspan inpbox" type="password" placeholder="password"
+    /></span>
+   </span>
+          <span class="innerspan ">
+            <span>Forgot password?</span>
+          </span>
+          <button class="mybutton">Login</button>
+          <span><span>Not a Member? Sign up</span>
+        </form>
+      </div>
+    </section>
+  </head>
+  <body></body>
+</html>
